@@ -1,15 +1,3 @@
-#Episode-1 #React Fundamentals #Inception
-
-->React is nothing but a javascript library, It makes things easy for us , especially in development.
-->javascript can be added to html using script tag
-->In order to use React which is a library we need to include that somehow , which we can do by CDN links.
-->The Order of code always matters
-->Understading of why we are writing crossorigin for the script tags we used to include the CDN links is very important
-->React can even run on a small portion of our App since its a library and not a framework
-
-Follow up :- Learn about crossorigin and CDN
-
-
 #Episode-2 #React Fundamentals #IgnitingTheApp
 
 ->Making the App production ready requires lot of ground work like   minification , chunking.
@@ -29,3 +17,5 @@ Follow up :- Learn about crossorigin and CDN
 ->We just have to add it in the package.json
 
 Follow up :- Reading about script types and Learning about Parcel and importance of entry point in package.json
+
+TBC...
