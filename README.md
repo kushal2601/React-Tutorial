@@ -10,6 +10,7 @@
 Follow up :- Learn about crossorigin and CDN
 
 
+
 #Episode-2 #React Fundamentals #IgnitingTheApp
 
 ->Making the App production ready requires lot of ground work like   minification , chunking.
@@ -29,3 +30,20 @@ Follow up :- Learn about crossorigin and CDN
 ->We just have to add it in the package.json
 
 Follow up :- Reading about script types and Learning about Parcel and importance of entry point in package.json
+
+
+
+#Episode-3 #React Fundamentals #LayingTheFoundation
+
+->We can build and run our app through scripts in package.json
+->JSX makes the developers life easy by simpler syntax
+->parcel has Babel to convert the syntax into ReactElement
+->Babel is a js compiler / transpiler and it converts the js into browser-compatible js
+->CamelCase has to be used to mention attributes in JSX
+->paranthesis is used when we want to write JSX in multiple lines
+->React Component :- Functional Component and Class Component
+-> Funtional Component = Any function which returns a React Element
+-> Component Composition is a Component having another Component inside nested.
+-> Javascript expressions and React Elemensts can be included in JSX with the help of {} braces.
+
+Follow up :- Learning about what npm run start is doing behind the scenes

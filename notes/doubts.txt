@@ -1,0 +1,2 @@
+1. If React Element is nothing but a javascript object , then in that case can we make a function return a javascript object and call it a React Functional Component
+2. Difference between anonymous function and an arrow function . use of keyword "function".
